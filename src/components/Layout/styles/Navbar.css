@@ -1,0 +1,26 @@
+/* a{
+    color: #0088cc;
+} */
+
+.loginBtn {
+    background-color: #00a1f2 !important;
+    height: 44px;
+    width: 125px;
+    display: flex;
+justify-items: space-evenly;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    letter-spacing: 1px;
+}
+.loginBtn:hover {
+    background-color: #19abf4db !important;
+}
+
+.nav-link{
+    color: white !important;
+    
+}
+.nav-link:hover{
+    color:  #0088cc !important;
+    }
+
